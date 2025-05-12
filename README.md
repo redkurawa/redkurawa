@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at Home, Indonesia
-- 🌱 I’m currently learning Javascript
+
+- 🔭 I’m currently working from Home at Bekasi, Indonesia
+- 🧡I’m currently learning Javascript, Typescript
