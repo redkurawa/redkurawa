@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working from Home at Bekasi, Indonesia
+- 🔭I’m currently working from home in Bekasi, Indonesia
 - 🧡I’m currently learning Javascript, Typescript
